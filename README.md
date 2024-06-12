@@ -1,0 +1,1 @@
+# DocumentReaderFullRFID-Swift-Package
