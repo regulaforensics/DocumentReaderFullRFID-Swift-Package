@@ -10,6 +10,6 @@ let package = Package(
             targets: ["FullRFID"]),
     ],
     targets: [
-        .binaryTarget(name: "FullRFID", url: "https://pods.regulaforensics.com/FullRFID/7.5.10921/DocumentReaderCore_fullrfid_7.5.10921.zip", checksum: "ba99a06c8e64f3d1de9d1d4795e54552dd022d38391c13788b61d0e89c42f57e"),
+        .binaryTarget(name: "FullRFID", url: "https://pods.regulaforensics.com/FullRFID/7.5.10984/DocumentReaderCore_fullrfid_7.5.10984.zip", checksum: "ea8d8ac275c3a6da503c879fa6eeecf1d8c535fa5b9215b77383bab8557bf062"),
     ]
 )
